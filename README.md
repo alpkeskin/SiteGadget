@@ -81,6 +81,8 @@ https://github.com/alpkeskin
 
 SITE >
 ```
+#### :eyes: Example Output :
+<a href="https://github.com/alpkeskin/SiteGadget/blob/main/insides/output.txt" target="_blank">SiteGadget's Full Output</a>
 
 ### :money_with_wings: My Bitcoin Wallet:
 `3NFfd1QXUVFsZzfbwGJiAJdehtPB9D88tK`
