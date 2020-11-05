@@ -68,6 +68,20 @@ Save your API keys in the `config.json`
 
 - Then, set the domain (i.e : nasa.gov, google.com...)
 
+## :computer: Screen:
+```python
+  ______ _                _______           _                   
+ / _____|_)  _           (_______)         | |              _   
+( (____  _ _| |_ _____    _   ___ _____  __| | ____ _____ _| |_ 
+ \____ \| (_   _) ___ |  | | (_  (____ |/ _  |/ _  | ___ (_   _)
+ _____) ) | | |_| ____|  | |___) / ___ ( (_| ( (_| | ____| | |_ 
+(______/|_|  \__)_____)   \_____/\_____|\____|\___ |_____)  \__)
+                                             (_____|v1.0 
+https://github.com/alpkeskin    
+
+SITE >
+```
+
 ### :money_with_wings: My Bitcoin Wallet:
 `3NFfd1QXUVFsZzfbwGJiAJdehtPB9D88tK`
 
