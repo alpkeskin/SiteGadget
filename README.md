@@ -2,7 +2,7 @@
 # SiteGadget
 A cross-platform python based utility for information gathering! Hi, Inspector Gadget...
 
- Help me develop the tool :pray:
+ Help me develop the tool and check the To-Do list :pray:
  
  #### :briefcase: Features:
   - IP Lookup
@@ -87,11 +87,16 @@ SITE >
 ### :money_with_wings: My Bitcoin Wallet:
 `3NFfd1QXUVFsZzfbwGJiAJdehtPB9D88tK`
 
-#### :white_check_mark: Tested on:
+#### :white_check_mark: Tested on :
 - Kali Linux
 - MacOS
 
-
+#### To-Do List :
+- [ ] Demo Video
+- [ ] Add -> Whois query
+- [ ] Add -> scan used technologies
+- [ ] Add -> Really useful API's
+- [ ] Improve The Codes
 
 <h1 align="center">
   <br>
